@@ -1,7 +1,3 @@
 print(' ')
-print(' ')
-print(' ')
+
 print(' Probando nuevos cambios con git')
-print('esto esta aqui cambio ')
-print(' jvndfihvcbdfuhcv fgcrfrvbf ')
-print('oibgugtcrtvugffy ')
